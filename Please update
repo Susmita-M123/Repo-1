@@ -1,0 +1,12 @@
+# Clone the repository
+git clone https://github.com/your-username/repository-name.git
+
+# Create a new branch
+git checkout -b feature-branch
+
+# Make changes, then stage and commit
+git add .
+git commit -m "Description of changes"
+
+# Push changes to your branch
+git push origin feature-branch
