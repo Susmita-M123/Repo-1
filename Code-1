@@ -1,10 +1,7 @@
 # Function for addition
 def add(a, b):
     return a + b
-
-# Function for subtraction ##### correct this part Please delete the subraction part
-def subtract(a, b):
-    return a - b
+  
 
 # Function for multiplication
 def multiply(a, b):
@@ -24,6 +21,5 @@ num2 = float(input("Enter the second number: "))
 
 print("\nResults:")
 print(f"Addition: {add(num1, num2)}")
-print(f"Subtraction: {subtract(num1, num2)}")
 print(f"Multiplication: {multiply(num1, num2)}")
 print(f"Division: {divide(num1, num2)}")
